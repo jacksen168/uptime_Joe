@@ -18,4 +18,4 @@ joe主题是默认带有统计页面的,但是里面没有uptime-status，我不
 
 ## 其他
 
-我的Blog有写其他: [uptime_Joe](jacksen168.top/index.php/archives/27.html)
+我的Blog有写其他: [uptime_Joe](https://jacksen168.top/index.php/archives/27.html)
